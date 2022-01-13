@@ -1,0 +1,53 @@
+{
+  "user": [
+    { "id": 1, "title": "Post 1", "email":"example, "password": "exemple" },
+   { "id": 1, "title": "Post 1", "email":"example, "password": "exemple" },
+   { "id": 1, "title": "Post 1", "email":"example, "password": "exemple" }
+  ],
+  "jobOffers": "data": [
+    {
+      "jobOffer_id": 1,
+      "recruiter_id": 1,
+      "available": 1,
+      "organizationName": "Example",
+      "jobProject_id": 1,
+      "jobOffer_role": "Dev",
+      "jobOffer_description": "dev",
+      "createdAt": "2022-01-07T11:45:09.000Z",
+      "updatedAt": "2022-01-07T11:45:09.000Z"
+    },
+    {
+      "jobOffer_id": 2,
+      "recruiter_id": 7,
+      "available": 1,
+      "organizationName": "Example",
+      "jobProject_id": 12,
+      "jobOffer_role": "Dev",
+      "jobOffer_description": "dev",
+      "createdAt": "2022-01-07T14:14:54.000Z",
+      "updatedAt": "2022-01-07T14:14:54.000Z"
+    },
+    {
+      "jobOffer_id": 3,
+      "recruiter_id": 7,
+      "available": 1,
+      "organizationName": "Example",
+      "jobProject_id": null,
+      "jobOffer_role": "Dev",
+      "jobOffer_description": "dev",
+      "createdAt": "2022-01-07T14:47:39.000Z",
+      "updatedAt": "2022-01-07T14:47:39.000Z"
+    },
+    {
+      "jobOffer_id": 4,
+      "recruiter_id": 11,
+      "available": 1,
+      "organizationName": null,
+      "jobProject_id": 19,
+      "jobOffer_role": "Dev",
+      "jobOffer_description": "dev",
+      "createdAt": "2022-01-07T20:21:01.000Z",
+      "updatedAt": "2022-01-07T20:21:01.000Z"
+    }
+  ]
+}
